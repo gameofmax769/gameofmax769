@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+
+## Maxime Drezet, développeur web.
+J’aime apprendre en construisant : chaque projet est pour moi un terrain d’expérimentation où je cherche à progresser techniquement et à créer des expériences web efficaces et soignées.
 
 <!--
 **gameofmax769/gameofmax769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
